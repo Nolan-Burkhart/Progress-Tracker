@@ -1,5 +1,4 @@
 # Progress-Tracker
-A simple GUI program in order to easily track how much time is spent on a task.
 
 Have you ever wanted to track how much time you are spending on a project?
 
@@ -10,6 +9,8 @@ Have you ever wanted to reflect on progress on a day-by-day basis along with tim
 Hopefully not, but if you are like me and want to this program is for you.
 
 Not a very sophisticated program, but a useful one (and it will work without internet!)
+
+.NET 6.0 required.
 
 ![Projects Screen](showcase1.PNG)
 ![Work Screen](showcase2.PNG)
